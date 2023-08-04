@@ -1,24 +1,24 @@
 <h1>28days of Technical Writing</h1>
 
 
-[✍️ Your Name]'s Technical Writing Journey
+[✍Etimfon Ikpong]'s Technical Writing Journey
 
 Introduction
-
+I am a Technical Writer, OpenSource Contributor, and Lover of the Solana Ecosystem.
 _____________________
 **Your Socials**
 
-✍️ Link to your Twitter
-✍️ Link to your LinkedIn
+✍️[Twitter Link](https://twitter.com/whoisetimfon?s=09)
+
 
 ___
 
-**Links of Blogs :**
+**Links of Blogs:**
 
 **✔️ Week 1:**
-(Your Blog Link)
+[First week's blog Link](https://timsage.hashnode.dev/the-concept-of-blockchain-oracles)
 
-**✔️ Week 2 :**
+**✔️ Week 2:**
 (Your Blog Link)
 
 **✔️ Week 3 :**
